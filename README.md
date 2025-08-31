@@ -56,6 +56,7 @@ unimanage/
 ```bash
 git clone https://github.com/abdullahamir-online/javaFx-Project.git
 cd unimanage
+```
 
 
 2️⃣ Run the Project
@@ -64,8 +65,10 @@ Import into IntelliJ IDEA / Eclipse / NetBeans
 
 Or run via terminal:
 
+``bash
 javac Main.java
 java Main
+```
 
 
 3️⃣ Explore
