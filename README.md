@@ -52,14 +52,14 @@ unimanage/
 
 ## 🚀 Getting Started  
 
-###1️⃣ Clone the Repository  
+### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/abdullahamir-online/javaFx-Project.git
 cd unimanage
 ```
 
 
-###2️⃣ Run the Project
+### 2️⃣ Run the Project
 
 Import into IntelliJ IDEA / Eclipse / NetBeans
 
@@ -71,14 +71,14 @@ java Main
 ```
 
 
-###3️⃣ Explore
+### 3️⃣ Explore
 
 Add, update, or delete student records
 
 Search and view statistics with charts
 
 
-##🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 Mastered JavaFX GUI development
 
@@ -89,6 +89,6 @@ Worked with real-time data binding using ObservableList
 Gained experience in desktop app design patterns
 
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Abdullah Amir – BE Software Engineering
