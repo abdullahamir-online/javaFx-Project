@@ -35,7 +35,7 @@ data binding, and an intuitive graphical interface.
 ---
 
 ## 📂 Project Structure  
-
+```
 unimanage/
 ├── 📂 src/ # JavaFX source code
 │ ├── controllers/ # UI controllers
@@ -43,6 +43,8 @@ unimanage/
 │ └── main/ # Application launcher
 ├── 📄 README.md # Documentation
 └── 📄 unimanage.jar # Executable build
+
+```
 
 
 
