@@ -54,7 +54,7 @@ unimanage/
 
 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/unimanage.git
+git clone https://github.com/abdullahamir-online/javaFx-Project.git
 cd unimanage
 
 
