@@ -1,54 +1,57 @@
-🎓 UniManage – University Management System
+# 🎓 UniManage – University Management System  
 
-UniManage is a JavaFX-based desktop application built using Core and Advanced Java. It provides a simple yet functional platform to manage student records with real-time updates, data binding, and an intuitive graphical interface.
+UniManage is a **JavaFX-based desktop application** built using Core and Advanced Java.  
+It provides a functional platform to manage student records with real-time updates,  
+data binding, and an intuitive graphical interface.  
 
-✨ Features
+---
 
-Student Management
+## ✨ Features  
 
-Add, update, delete student records
+- **Student Management**  
+  - Add, update, delete student records  
+  - Support for multiple student types (abstract & concrete classes)  
 
-Support for multiple student types (abstract & concrete classes)
+- **Search & Filtering**  
+  - Dynamic search using `ObservableList`  
+  - Instant record updates in TableView  
 
-Search & Filtering
+- **Statistics & Charts**  
+  - Display insights on student data through JavaFX charts  
 
-Dynamic search using ObservableList
+- **User-Friendly Interface**  
+  - Clean, responsive JavaFX UI  
+  - Real-time binding between UI and backend data structures  
 
-Instant record updates in TableView
+---
 
-Statistics & Charts
+## 🛠️ Tech Stack  
 
-Display insights on student data through JavaFX charts
+- **Frontend (GUI):** JavaFX (TableView, Charts, Layouts)  
+- **Programming Language:** Core Java + Advanced Java  
+- **Architecture:** OOP design with Abstract & Concrete classes  
+- **Data Handling:** ObservableList, Collections Framework  
 
-User-Friendly Interface
+---
 
-Clean, responsive JavaFX UI
+## 📂 Project Structure  
 
-Real-time binding between UI and backend data structures
-
-🛠️ Tech Stack
-
-Frontend (GUI): JavaFX (TableView, Charts, Layouts)
-
-Programming Language: Core Java + Advanced Java
-
-Architecture: OOP design with Abstract & Concrete classes
-
-Data Handling: ObservableList, Collections Framework
-
-📂 Project Structure
 unimanage/
-├── 📂 src/              # JavaFX source code
-│   ├── controllers/     # UI controllers
-│   ├── models/          # Student classes (abstract + concrete)
-│   └── main/            # Application launcher
-├── 📄 README.md         # Documentation
-└── 📄 unimanage.jar     # Executable build
+├── 📂 src/ # JavaFX source code
+│ ├── controllers/ # UI controllers
+│ ├── models/ # Student classes (abstract + concrete)
+│ └── main/ # Application launcher
+├── 📄 README.md # Documentation
+└── 📄 unimanage.jar # Executable build
 
-🚀 Getting Started
 
-1️⃣ Clone the Repository
 
+---
+
+## 🚀 Getting Started  
+
+1️⃣ Clone the Repository  
+```bash
 git clone https://github.com/your-username/unimanage.git
 cd unimanage
 
@@ -69,6 +72,7 @@ Add, update, or delete student records
 
 Search and view statistics with charts
 
+
 🎯 Learning Outcomes
 
 Mastered JavaFX GUI development
@@ -78,6 +82,7 @@ Applied OOP principles (abstraction, inheritance, polymorphism)
 Worked with real-time data binding using ObservableList
 
 Gained experience in desktop app design patterns
+
 
 👨‍💻 Author
 
