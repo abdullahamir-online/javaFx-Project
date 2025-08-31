@@ -65,7 +65,7 @@ Import into IntelliJ IDEA / Eclipse / NetBeans
 
 Or run via terminal:
 
-``bash
+```bash
 javac Main.java
 java Main
 ```
